@@ -2,8 +2,8 @@
 
 ## Summary
 
-![image](https://user-images.githubusercontent.com/39760546/189385132-01874746-ffce-438f-a40b-ea13236e18ca.png)
+![image](https://user-images.githubusercontent.com/39760546/189538721-033a839d-9483-4bbd-add7-a6564f5cea62.png)
 
 ## Inference service detail
 
-![image](https://user-images.githubusercontent.com/39760546/189385360-09769224-e5d4-46e8-b526-0240976f775a.png)
+![image](https://user-images.githubusercontent.com/39760546/189538740-c8eaabf7-2b8c-4497-9723-ff3baf6864be.png)
