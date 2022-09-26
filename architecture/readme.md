@@ -2,7 +2,7 @@
 
 ## Summary
 
-![architecture](https://user-images.githubusercontent.com/39760546/192243492-cfaddb93-b9b5-4604-9d0d-7042d237ce1b.png)
+![architecture](https://user-images.githubusercontent.com/39760546/192251124-4421426d-035b-4c9f-b7f3-4b2efd38fee6.png)
 
 ## Inference service detail
 
