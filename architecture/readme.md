@@ -6,4 +6,4 @@
 
 ## Inference service detail
 
-![inference_detail](https://user-images.githubusercontent.com/39760546/192241438-8aa4df72-00ef-4353-8853-f8d38575da94.png)
+![inference_detail](https://user-images.githubusercontent.com/39760546/192243873-4cf7369f-2eea-4a83-98ff-b2bc2c71c538.png)
